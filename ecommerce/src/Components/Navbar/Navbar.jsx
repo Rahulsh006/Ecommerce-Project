@@ -14,7 +14,7 @@ export default function Navbar() {
         <li>Shop</li>
         <li>Men</li>
         <li>Women</li>
-        <li>Kids</li>
+        <li>Kidss</li>
       </ul>
       <div className="nav-login-cart">
         <button>Login</button>
